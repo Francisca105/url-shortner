@@ -1,0 +1,22 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "site para encurtar links",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "author": "francisca105",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard": "^2.0.6",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "sequelize": "^6.3.4"
+  }
+}
